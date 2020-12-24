@@ -1,1 +1,1 @@
-# django-react-weather-app
+# django-weather app built with django and bootstrap5
